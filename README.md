@@ -3,7 +3,7 @@
 ## Description
 
 This portfolio is a showcase of my web development projects, demonstrating my skills and abilities in building single-page applications using React. The portfolio is designed with a focus on modern web technologies and features a responsive layout, ensuring compatibility across various devices and screen sizes.
-
+![Application Screenshot](./assets/template.PNG)
 Deployed Application: [Thomas Er's React Portfolio](https://65776387d1f01f31274e6fd7--prismatic-cactus-feebaf.netlify.app/)
 
 ## Technology Used

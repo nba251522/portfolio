@@ -62,4 +62,3 @@ This application is deployed on Netlify for robust and reliable hosting. For mor
 ## License
 
 This project is licensed under the terms of the MIT License.
-Replace [repository URL]
